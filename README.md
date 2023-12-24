@@ -16,7 +16,7 @@ software's operations.
   - [Members:](#members)
 
 ## Objectives
-* We have performed the Malware Analysis of a Crackme file using Ghidra.
+* We have performed the Malware Analysis of a Crackme file using Ghidra as a part of our internal assessment for our digital forensics course.
 
 ### Installation 
 

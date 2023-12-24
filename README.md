@@ -29,8 +29,9 @@ software's operations.
   3. Once downloaded, unpack the file.
   4. Double-click on “runGhidra.bat” to launch Ghidra.
   5. Upon the initial startup, you'll be presented with a user agreement. Proceed by accepting it.
-
-     <summary><b>MacOS</b></summary>
+</details>
+<details>
+  <summary><b>MacOS</b></summary>
 
   1. Download and extract the launcher AppleScript template app below. Optionally modify
      Ghidra.app/Info.plist to your liking.
